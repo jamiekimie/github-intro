@@ -4,4 +4,5 @@ Intro to GitHub work from JWD
 Hello this is Jamie, please write a greeting below:
 
 Clearing up now!!!!
-can i add this
+
+I was going to add this line. - 2020-0816
